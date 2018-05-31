@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c3f38bb-83ae-4193-97bb-a8a3b211c8dd" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/ScriptFiles/errorHandle.R" beforeDir="false" afterPath="$PROJECT_DIR$/ScriptFiles/errorHandle.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScriptFiles/excelread.R" beforeDir="false" afterPath="$PROJECT_DIR$/ScriptFiles/excelread.R" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,20 +22,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="excelread.R" pinned="false" current-in-tab="false">
+      <file leaf-file-name="excelread.R" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ScriptFiles/excelread.R">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="54" column="34" lean-forward="true" selection-start-line="54" selection-start-column="34" selection-end-line="54" selection-end-column="34" />
+            <state relative-caret-position="137">
+              <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="errorHandle.R" pinned="false" current-in-tab="true">
+      <file leaf-file-name="errorHandle.R" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ScriptFiles/errorHandle.R">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="293">
+              <caret line="16" column="41" lean-forward="true" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -50,8 +50,8 @@
       <list>
         <option value="$PROJECT_DIR$/csvread.R" />
         <option value="$PROJECT_DIR$/ScriptFiles/csvread.R" />
-        <option value="$PROJECT_DIR$/ScriptFiles/excelread.R" />
         <option value="$PROJECT_DIR$/ScriptFiles/errorHandle.R" />
+        <option value="$PROJECT_DIR$/ScriptFiles/excelread.R" />
       </list>
     </option>
   </component>
@@ -201,17 +201,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ScriptFiles/excelread.R">
+    <entry file="file://$PROJECT_DIR$/ScriptFiles/errorHandle.R">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="54" column="34" lean-forward="true" selection-start-line="54" selection-start-column="34" selection-end-line="54" selection-end-column="34" />
+        <state relative-caret-position="293">
+          <caret line="16" column="41" lean-forward="true" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ScriptFiles/errorHandle.R">
+    <entry file="file://$PROJECT_DIR$/ScriptFiles/excelread.R">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="137">
+          <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
         </state>
       </provider>
     </entry>

@@ -50,7 +50,7 @@ startCol = 0, endCol = 0)
 
 #print data
 print(data)
-str(data)
+#str(data)
 
 # # Create a sheet named 'boxplot'
 # createSheet(wb, name = "boxplot")
