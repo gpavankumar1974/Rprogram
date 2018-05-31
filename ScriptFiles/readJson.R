@@ -12,3 +12,8 @@ result <- fromJSON(file = "C:\\Users\\radhapavan\\Documents\\GitHub\\Rprogram\\F
 print(result)
 
 print(result$regionCode)
+
+# Convert JSON file to a data frame.
+json_data_frame <- as.data.frame(result)
+
+print(json_data_frame)
