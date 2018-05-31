@@ -101,9 +101,13 @@
       <w>.__C__DMS</w>
       <w>.__C__Date</w>
       <w>.__C__EmptyMethodsList</w>
+      <w>.__C__ExternalReference</w>
+      <w>.__C__FormattedInteger</w>
+      <w>.__C__FormattedNumber</w>
       <w>.__C__GridTopology</w>
       <w>.__C__HLS</w>
       <w>.__C__HSV</w>
+      <w>.__C__HTMLInternalDocument</w>
       <w>.__C__IDate</w>
       <w>.__C__ITime</w>
       <w>.__C__LAB</w>
@@ -129,6 +133,7 @@
       <w>.__C__POSIXct</w>
       <w>.__C__POSIXlt</w>
       <w>.__C__POSIXt</w>
+      <w>.__C__Percent</w>
       <w>.__C__Polygon</w>
       <w>.__C__Polygons</w>
       <w>.__C__PossibleMethod</w>
@@ -137,7 +142,13 @@
       <w>.__C__RsparseMatrix</w>
       <w>.__C__S3</w>
       <w>.__C__S4</w>
+      <w>.__C__SAXState</w>
       <w>.__C__SClassExtension</w>
+      <w>.__C__SchemaAttributeGroupTable</w>
+      <w>.__C__SchemaAttributeTable</w>
+      <w>.__C__SchemaElementTable</w>
+      <w>.__C__SchemaNotationTable</w>
+      <w>.__C__SchemaTypeTable</w>
       <w>.__C__Schur</w>
       <w>.__C__SealedMethodDefinition</w>
       <w>.__C__Spatial</w>
@@ -155,8 +166,35 @@
       <w>.__C__SpatialPolygonsDataFrame</w>
       <w>.__C__SuperClassMethod</w>
       <w>.__C__TsparseMatrix</w>
+      <w>.__C__URI</w>
       <w>.__C__VIRTUAL</w>
       <w>.__C__WebSocket</w>
+      <w>.__C__XMLAbstractDocument</w>
+      <w>.__C__XMLAbstractNode</w>
+      <w>.__C__XMLAttributeDeclNode</w>
+      <w>.__C__XMLAttributes</w>
+      <w>.__C__XMLCodeDoc</w>
+      <w>.__C__XMLCodeFile</w>
+      <w>.__C__XMLDTDNode</w>
+      <w>.__C__XMLDocumentFragNode</w>
+      <w>.__C__XMLDocumentNode</w>
+      <w>.__C__XMLDocumentTypeNode</w>
+      <w>.__C__XMLEntityDeclNode</w>
+      <w>.__C__XMLInternalCDataNode</w>
+      <w>.__C__XMLInternalCommentNode</w>
+      <w>.__C__XMLInternalDocument</w>
+      <w>.__C__XMLInternalElementNode</w>
+      <w>.__C__XMLInternalNode</w>
+      <w>.__C__XMLInternalPINode</w>
+      <w>.__C__XMLInternalTextNode</w>
+      <w>.__C__XMLNamespace</w>
+      <w>.__C__XMLNamespaceDeclNode</w>
+      <w>.__C__XMLNamespaceDefinitions</w>
+      <w>.__C__XMLNode</w>
+      <w>.__C__XMLString</w>
+      <w>.__C__XMLTreeNode</w>
+      <w>.__C__XMLXIncludeEndNode</w>
+      <w>.__C__XMLXIncludeStartNode</w>
       <w>.__C__XYZ</w>
       <w>.__C__abIndex</w>
       <w>.__C__activeBindingFunction</w>
@@ -263,6 +301,7 @@
       <w>.__C__lgTMatrix</w>
       <w>.__C__lgeMatrix</w>
       <w>.__C__libraryIQR</w>
+      <w>.__C__libxmlTypeTable</w>
       <w>.__C__list</w>
       <w>.__C__listOfMethods</w>
       <w>.__C__lm</w>
@@ -387,6 +426,12 @@
       <w>.__C__vector</w>
       <w>.__C__while</w>
       <w>.__C__workbook</w>
+      <w>.__C__xmlSchemaAttributeGroupRef</w>
+      <w>.__C__xmlSchemaAttributeRef</w>
+      <w>.__C__xmlSchemaElementRef</w>
+      <w>.__C__xmlSchemaNotationRef</w>
+      <w>.__C__xmlSchemaRef</w>
+      <w>.__C__xmlSchemaTypeRef</w>
       <w>.__C__xsparseVector</w>
       <w>.__C__zMatrix</w>
       <w>.__C__zsparseVector</w>
@@ -633,6 +678,7 @@
       <w>CIDFont</w>
       <w>CJ</w>
       <w>CO2</w>
+      <w>COMPACT</w>
       <w>CRAN.packages</w>
       <w>CRAN_check_details</w>
       <w>CRAN_check_issues</w>
@@ -678,6 +724,9 @@
       <w>DDT</w>
       <w>DLL.version</w>
       <w>DNase</w>
+      <w>DTDATTR</w>
+      <w>DTDLOAD</w>
+      <w>DTDVALID</w>
       <w>DataFormat</w>
       <w>DataFrameCallback</w>
       <w>Davis</w>
@@ -688,6 +737,7 @@
       <w>Dialyzer</w>
       <w>Dim</w>
       <w>DiscreteRange</w>
+      <w>Doctype</w>
       <w>Duncan</w>
       <w>EEF.profile</w>
       <w>EL.profile</w>
@@ -775,6 +825,7 @@
       <w>HSV</w>
       <w>HTML</w>
       <w>HTMLheader</w>
+      <w>HUGE</w>
       <w>HairEyeColor</w>
       <w>Harman23.cor</w>
       <w>Harman74.cor</w>
@@ -883,8 +934,18 @@
       <w>NLSstClosestX</w>
       <w>NLSstLfAsymptote</w>
       <w>NLSstRtAsymptote</w>
+      <w>NOBASEFIX</w>
+      <w>NOBLANKS</w>
+      <w>NOCDATA</w>
+      <w>NODICT</w>
+      <w>NOENT</w>
+      <w>NOERROR</w>
+      <w>NONET</w>
+      <w>NOWARNING</w>
+      <w>NOXINCNODE</w>
       <w>NROW</w>
       <w>NS</w>
+      <w>NSCLEAN</w>
       <w>Names</w>
       <w>Negate</w>
       <w>NextMethod</w>
@@ -892,6 +953,8 @@
       <w>Nitrendipene</w>
       <w>Null</w>
       <w>OBrienKaiser</w>
+      <w>OLD10</w>
+      <w>OLDSAX</w>
       <w>OME</w>
       <w>Oats</w>
       <w>OlsonNames</w>
@@ -921,6 +984,7 @@
       <w>PBrefdist.lm</w>
       <w>PBrefdist.mer</w>
       <w>PBrefdist.merMod</w>
+      <w>PEDANTIC</w>
       <w>PP.test</w>
       <w>Peirce</w>
       <w>Phenobarb</w>
@@ -982,6 +1046,7 @@
       <w>R6</w>
       <w>R6Class</w>
       <w>RColorBrewer</w>
+      <w>RECOVER</w>
       <w>RGB</w>
       <w>RNGkind</w>
       <w>RNGversion</w>
@@ -1035,6 +1100,7 @@
       <w>S</w>
       <w>S3Class</w>
       <w>S3Part</w>
+      <w>SAX1</w>
       <w>SIGCHLD</w>
       <w>SIGCONT</w>
       <w>SIGHUP</w>
@@ -1232,9 +1298,11 @@
       <w>Wool</w>
       <w>WorldPhones</w>
       <w>X11</w>
+      <w>XINCLUDE</w>
       <w>XLC</w>
       <w>XLConnect</w>
       <w>XLConnectJars</w>
+      <w>XML</w>
       <w>XYZ</w>
       <w>`!!!`</w>
       <w>`!!`</w>
@@ -1356,6 +1424,7 @@
       <w>`.__T__[[&lt;-:base`</w>
       <w>`.__T__^:base`</w>
       <w>`.__T__addAttrToGeom:sp`</w>
+      <w>`.__T__addAttributes:XML`</w>
       <w>`.__T__addImage:XLConnect`</w>
       <w>`.__T__addNextMethod:methods`</w>
       <w>`.__T__all.equal:base`</w>
@@ -1396,6 +1465,7 @@
       <w>`.__T__coerce&lt;-:methods`</w>
       <w>`.__T__colMeans:base`</w>
       <w>`.__T__colSums:base`</w>
+      <w>`.__T__comment.SAX:XML`</w>
       <w>`.__T__confint:stats`</w>
       <w>`.__T__coordinates:sp`</w>
       <w>`.__T__coordinates&lt;-:sp`</w>
@@ -1420,9 +1490,13 @@
       <w>`.__T__dimnames:base`</w>
       <w>`.__T__dimnames&lt;-:base`</w>
       <w>`.__T__disaggregate:sp`</w>
+      <w>`.__T__docName:XML`</w>
+      <w>`.__T__docName&lt;-:XML`</w>
       <w>`.__T__drop:base`</w>
       <w>`.__T__duplicated:base`</w>
       <w>`.__T__elide:maptools`</w>
+      <w>`.__T__endElement.SAX:XML`</w>
+      <w>`.__T__entityDeclaration.SAX:XML`</w>
       <w>`.__T__existsCellStyle:XLConnect`</w>
       <w>`.__T__existsName:XLConnect`</w>
       <w>`.__T__existsSheet:XLConnect`</w>
@@ -1436,6 +1510,7 @@
       <w>`.__T__format:base`</w>
       <w>`.__T__formula:stats`</w>
       <w>`.__T__forwardsolve:base`</w>
+      <w>`.__T__free:XML`</w>
       <w>`.__T__fullgrid:sp`</w>
       <w>`.__T__fullgrid&lt;-:sp`</w>
       <w>`.__T__geometry:sp`</w>
@@ -1447,6 +1522,7 @@
       <w>`.__T__getCellStyle:XLConnect`</w>
       <w>`.__T__getCellStyleForType:XLConnect`</w>
       <w>`.__T__getDefinedNames:XLConnect`</w>
+      <w>`.__T__getEncoding:XML`</w>
       <w>`.__T__getForceFormulaRecalculation:XLConnect`</w>
       <w>`.__T__getLastColumn:XLConnect`</w>
       <w>`.__T__getLastRow:XLConnect`</w>
@@ -1501,6 +1577,7 @@
       <w>`.__T__polygons:sp`</w>
       <w>`.__T__polygons&lt;-:sp`</w>
       <w>`.__T__print:base`</w>
+      <w>`.__T__processingInstruction.SAX:XML`</w>
       <w>`.__T__prod:base`</w>
       <w>`.__T__profile:stats`</w>
       <w>`.__T__proj4string:sp`</w>
@@ -1517,13 +1594,19 @@
       <w>`.__T__range:base`</w>
       <w>`.__T__rbind2:methods`</w>
       <w>`.__T__rcond:base`</w>
+      <w>`.__T__readHTMLList:XML`</w>
+      <w>`.__T__readHTMLTable:XML`</w>
+      <w>`.__T__readKeyValueDB:XML`</w>
       <w>`.__T__readNamedRegion:XLConnect`</w>
+      <w>`.__T__readSolrDoc:XML`</w>
       <w>`.__T__readTable:XLConnect`</w>
       <w>`.__T__readWorksheet:XLConnect`</w>
       <w>`.__T__recenter:sp`</w>
+      <w>`.__T__removeAttributes:XML`</w>
       <w>`.__T__removeName:XLConnect`</w>
       <w>`.__T__removePane:XLConnect`</w>
       <w>`.__T__removeSheet:XLConnect`</w>
+      <w>`.__T__removeXMLNamespaces:XML`</w>
       <w>`.__T__renameSheet:XLConnect`</w>
       <w>`.__T__rep:base`</w>
       <w>`.__T__resid:stats`</w>
@@ -1533,6 +1616,7 @@
       <w>`.__T__rowMeans:base`</w>
       <w>`.__T__rowSums:base`</w>
       <w>`.__T__saveWorkbook:XLConnect`</w>
+      <w>`.__T__saveXML:XML`</w>
       <w>`.__T__setActiveSheet:XLConnect`</w>
       <w>`.__T__setAutoFilter:XLConnect`</w>
       <w>`.__T__setBorder:XLConnect`</w>
@@ -1562,6 +1646,7 @@
       <w>`.__T__solve:base`</w>
       <w>`.__T__solveCoef:MatrixModels`</w>
       <w>`.__T__sort:base`</w>
+      <w>`.__T__source:base`</w>
       <w>`.__T__sp.lineLabel:maptools`</w>
       <w>`.__T__sp.pointLabel:maptools`</w>
       <w>`.__T__spCbind:maptools`</w>
@@ -1573,6 +1658,7 @@
       <w>`.__T__sppanel:sp`</w>
       <w>`.__T__spplot:sp`</w>
       <w>`.__T__spsample:sp`</w>
+      <w>`.__T__startElement.SAX:XML`</w>
       <w>`.__T__str:utils`</w>
       <w>`.__T__sum:base`</w>
       <w>`.__T__summary:base`</w>
@@ -1582,6 +1668,8 @@
       <w>`.__T__t:base`</w>
       <w>`.__T__tail:utils`</w>
       <w>`.__T__tcrossprod:base`</w>
+      <w>`.__T__text.SAX:XML`</w>
+      <w>`.__T__toHTML:XML`</w>
       <w>`.__T__toeplitz:stats`</w>
       <w>`.__T__tril:Matrix`</w>
       <w>`.__T__triu:Matrix`</w>
@@ -1599,6 +1687,18 @@
       <w>`.__T__writeMM:Matrix`</w>
       <w>`.__T__writeNamedRegion:XLConnect`</w>
       <w>`.__T__writeWorksheet:XLConnect`</w>
+      <w>`.__T__xmlAttrs&lt;-:XML`</w>
+      <w>`.__T__xmlChildren&lt;-:XML`</w>
+      <w>`.__T__xmlClone:XML`</w>
+      <w>`.__T__xmlNamespace&lt;-:XML`</w>
+      <w>`.__T__xmlNamespaces&lt;-:XML`</w>
+      <w>`.__T__xmlParent:XML`</w>
+      <w>`.__T__xmlSource:XML`</w>
+      <w>`.__T__xmlSourceFunctions:XML`</w>
+      <w>`.__T__xmlSourceSection:XML`</w>
+      <w>`.__T__xmlToDataFrame:XML`</w>
+      <w>`.__T__xmlToS4:XML`</w>
+      <w>`.__T__xmlValue&lt;-:XML`</w>
       <w>`.__T__zapsmall:base`</w>
       <w>`.jfield&lt;-`</w>
       <w>`.rowNamesDF&lt;-`</w>
@@ -1689,6 +1789,7 @@
       <w>`dimnames&lt;-.data.frame`</w>
       <w>`dimnames&lt;-`</w>
       <w>`display&lt;-`</w>
+      <w>`docName&lt;-`</w>
       <w>`el&lt;-`</w>
       <w>`elNamed&lt;-`</w>
       <w>`environment&lt;-`</w>
@@ -1723,7 +1824,7 @@
       <w>`matrix&lt;-`</w>
       <w>`mode&lt;-`</w>
       <w>`mostattributes&lt;-`</w>
-      <w>`n'est pas`</w>
+      <w />
       <w>`names&lt;-.POSIXlt`</w>
       <w>`names&lt;-`</w>
       <w>`oldClass&lt;-`</w>
@@ -1767,6 +1868,13 @@
       <w>`units&lt;-`</w>
       <w>`window&lt;-`</w>
       <w>`worksheetOrder&lt;-`</w>
+      <w>`xmlAttrs&lt;-`</w>
+      <w>`xmlChildren&lt;-`</w>
+      <w>`xmlName&lt;-`</w>
+      <w>`xmlNamespace&lt;-`</w>
+      <w>`xmlNamespaces&lt;-`</w>
+      <w>`xmlParent&lt;-`</w>
+      <w>`xmlValue&lt;-`</w>
       <w>`{`</w>
       <w>`|.hexmode`</w>
       <w>`|.octmode`</w>
@@ -1808,7 +1916,9 @@
       <w>add.scope</w>
       <w>add1</w>
       <w>addAttrToGeom</w>
+      <w>addAttributes</w>
       <w>addAutoFilter</w>
+      <w>addChildren</w>
       <w>addDataFrame</w>
       <w>addFilter</w>
       <w>addGrob</w>
@@ -1817,9 +1927,11 @@
       <w>addMergedRegion</w>
       <w>addNA</w>
       <w>addNextMethod</w>
+      <w>addNode</w>
       <w>addNormals</w>
       <w>addPicture</w>
       <w>addResourcePath</w>
+      <w>addSibling</w>
       <w>addStyle</w>
       <w>addTaskCallback</w>
       <w>addTclPath</w>
@@ -1943,6 +2055,8 @@
       <w>aperm.default</w>
       <w>aperm.table</w>
       <w>append</w>
+      <w>append.XMLNode</w>
+      <w>append.xmlNode</w>
       <w>appendContent</w>
       <w>appendNamedRegion</w>
       <w>appendTab</w>
@@ -2182,6 +2296,8 @@
       <w>asS4</w>
       <w>asTable</w>
       <w>asVector</w>
+      <w>asXMLNode</w>
+      <w>asXMLTreeNode</w>
       <w>as_box</w>
       <w>as_box_if</w>
       <w>as_bytes</w>
@@ -2541,6 +2657,11 @@
       <w>cat_line</w>
       <w>cat_print</w>
       <w>cat_rule</w>
+      <w>catalogAdd</w>
+      <w>catalogClearTable</w>
+      <w>catalogDump</w>
+      <w>catalogLoad</w>
+      <w>catalogResolve</w>
       <w>catch</w>
       <w>catch_cnd</w>
       <w>catcolwise</w>
@@ -2797,6 +2918,7 @@
       <w>comma_format</w>
       <w>commandArgs</w>
       <w>comment</w>
+      <w>comment.SAX</w>
       <w>common_by</w>
       <w>common_env</w>
       <w>compact</w>
@@ -2806,6 +2928,7 @@
       <w>compareOptions</w>
       <w>comparePred</w>
       <w>compareVersion</w>
+      <w>compareXMLDocs</w>
       <w>compare_tbls</w>
       <w>compare_tbls2</w>
       <w>compassRose</w>
@@ -3283,6 +3406,7 @@
       <w>doPrimitiveMethod</w>
       <w>doRenderTags</w>
       <w>do_</w>
+      <w>docName</w>
       <w>dodecahedron3d</w>
       <w>dogs</w>
       <w>dollar</w>
@@ -3349,6 +3473,11 @@
       <w>dsignrank</w>
       <w>dsurvreg</w>
       <w>dt</w>
+      <w>dtdElement</w>
+      <w>dtdElementValidEntry</w>
+      <w>dtdEntity</w>
+      <w>dtdIsAttribute</w>
+      <w>dtdValidElement</w>
       <w>ducks</w>
       <w>dummy.coef</w>
       <w>dummy.coef.lm</w>
@@ -3422,6 +3551,7 @@
       <w>encoded_text_to_latex</w>
       <w>end</w>
       <w>end.dynrq</w>
+      <w>endElement.SAX</w>
       <w>endsWith</w>
       <w>ends_with</w>
       <w>enexpr</w>
@@ -3434,8 +3564,10 @@
       <w>enquo</w>
       <w>enquos</w>
       <w>enquote</w>
+      <w>ensureNamespace</w>
       <w>ensym</w>
       <w>ensyms</w>
+      <w>entityDeclaration.SAX</w>
       <w>env</w>
       <w>env.profile</w>
       <w>env_bind</w>
@@ -3670,6 +3802,7 @@
       <w>findPackageEnv</w>
       <w>findRestart</w>
       <w>findUnique</w>
+      <w>findXInclude</w>
       <w>find_data</w>
       <w>find_gs_cmd</w>
       <w>find_panel</w>
@@ -3799,6 +3932,7 @@
       <w>frankv</w>
       <w>fread</w>
       <w>freduce</w>
+      <w>free</w>
       <w>freeny</w>
       <w>freezePane</w>
       <w>freezeReactiveVal</w>
@@ -3877,6 +4011,7 @@
       <w>gctorture2</w>
       <w>gehan</w>
       <w>generic.skeleton</w>
+      <w>genericSAXHandlers</w>
       <w>genfan</w>
       <w>genotype</w>
       <w>geom_abline</w>
@@ -3949,6 +4084,7 @@
       <w>getCellStyleForType</w>
       <w>getCellValue</w>
       <w>getCells</w>
+      <w>getChildrenStrings</w>
       <w>getClass</w>
       <w>getClassDef</w>
       <w>getClassName</w>
@@ -3967,11 +4103,13 @@
       <w>getDataPart</w>
       <w>getDateOrigin</w>
       <w>getDefaultCluster</w>
+      <w>getDefaultNamespace</w>
       <w>getDefaultReactiveDomain</w>
       <w>getDefinedNames</w>
       <w>getDepList</w>
       <w>getDependency</w>
       <w>getElement</w>
+      <w>getEncoding</w>
       <w>getExportedValue</w>
       <w>getExtends</w>
       <w>getForceFormulaRecalculation</w>
@@ -3988,6 +4126,8 @@
       <w>getGroupMembers</w>
       <w>getGroups</w>
       <w>getGroupsFormula</w>
+      <w>getHTMLExternalFiles</w>
+      <w>getHTMLLinks</w>
       <w>getHook</w>
       <w>getIdentification</w>
       <w>getInitial</w>
@@ -3999,6 +4139,7 @@
       <w>getLRT.merMod</w>
       <w>getLastColumn</w>
       <w>getLastRow</w>
+      <w>getLineNumber</w>
       <w>getLinesIDSlot</w>
       <w>getLinesLinesSlot</w>
       <w>getLoadActions</w>
@@ -4017,6 +4158,9 @@
       <w>getNamespaceUsers</w>
       <w>getNamespaceVersion</w>
       <w>getNativeSymbolInfo</w>
+      <w>getNodeLocation</w>
+      <w>getNodePosition</w>
+      <w>getNodeSet</w>
       <w>getNumericRounding</w>
       <w>getOption</w>
       <w>getOrCreateCellStyle</w>
@@ -4041,6 +4185,7 @@
       <w>getReferenceCoordinatesForName</w>
       <w>getReferenceCoordinatesForTable</w>
       <w>getReferenceFormula</w>
+      <w>getRelativeURL</w>
       <w>getResponse</w>
       <w>getResponseFormula</w>
       <w>getRgshhsMap</w>
@@ -4053,6 +4198,7 @@
       <w>getSheetPos</w>
       <w>getSheets</w>
       <w>getShinyOption</w>
+      <w>getSibling</w>
       <w>getSlots</w>
       <w>getSpPPolygonsIDSlots</w>
       <w>getSpPPolygonsLabptSlots</w>
@@ -4083,6 +4229,8 @@
       <w>getWindowTitle</w>
       <w>getWindowsHandle</w>
       <w>getWindowsHandles</w>
+      <w>getXIncludes</w>
+      <w>getXMLErrors</w>
       <w>get_Lb_ddf</w>
       <w>get_Lb_ddf.lmerMod</w>
       <w>get_Polypath</w>
@@ -4412,8 +4560,10 @@
       <w>htmlDependency</w>
       <w>htmlEscape</w>
       <w>htmlOutput</w>
+      <w>htmlParse</w>
       <w>htmlPreserve</w>
       <w>htmlTemplate</w>
+      <w>htmlTreeParse</w>
       <w>html_print</w>
       <w>htmltools</w>
       <w>htmlwidgets</w>
@@ -4725,6 +4875,7 @@
       <w>isTriangular</w>
       <w>isTruthy</w>
       <w>isVirtualClass</w>
+      <w>isXMLString</w>
       <w>isXS3Class</w>
       <w>is_A1</w>
       <w>is_R1C1</w>
@@ -5033,6 +5184,8 @@
       <w>library</w>
       <w>library.dynam</w>
       <w>library.dynam.unload</w>
+      <w>libxmlFeatures</w>
+      <w>libxmlVersion</w>
       <w>licence</w>
       <w>license</w>
       <w>lift</w>
@@ -5218,6 +5371,7 @@
       <w>makeARIMA</w>
       <w>makeActiveBinding</w>
       <w>makeClassRepresentation</w>
+      <w>makeClassTemplate</w>
       <w>makeCluster</w>
       <w>makeCodeWalker</w>
       <w>makeConstantFolder</w>
@@ -5297,6 +5451,7 @@
       <w>match.fun</w>
       <w>match.ratetable</w>
       <w>matchCoefs</w>
+      <w>matchNamespaces</w>
       <w>matchSignature</w>
       <w>match_df</w>
       <w>matches</w>
@@ -5540,6 +5695,7 @@
       <w>name_rows</w>
       <w>names</w>
       <w>names.POSIXlt</w>
+      <w>names.XMLNode</w>
       <w>names2</w>
       <w>namespaceExport</w>
       <w>namespaceImport</w>
@@ -5588,7 +5744,17 @@
       <w>newBasic</w>
       <w>newClassRepresentation</w>
       <w>newEmptyObject</w>
+      <w>newHTMLDoc</w>
+      <w>newJSONParser</w>
       <w>newSubscene3d</w>
+      <w>newXMLCDataNode</w>
+      <w>newXMLCommentNode</w>
+      <w>newXMLDTDNode</w>
+      <w>newXMLDoc</w>
+      <w>newXMLNamespace</w>
+      <w>newXMLNode</w>
+      <w>newXMLPINode</w>
+      <w>newXMLTextNode</w>
       <w>new_box</w>
       <w>new_call</w>
       <w>new_character</w>
@@ -5920,9 +6086,12 @@
       <w>parent.env</w>
       <w>parent.frame</w>
       <w>parse</w>
+      <w>parseDTD</w>
       <w>parseLatex</w>
       <w>parseNamespaceFile</w>
       <w>parseQueryString</w>
+      <w>parseURI</w>
+      <w>parseXMLAndAdd</w>
       <w>parse_Rd</w>
       <w>parse_all</w>
       <w>parse_character</w>
@@ -6292,6 +6461,8 @@
       <w>problems</w>
       <w>proc.time</w>
       <w>process.events</w>
+      <w>processXInclude</w>
+      <w>processingInstruction.SAX</w>
       <w>prod</w>
       <w>profile</w>
       <w>progress_estimated</w>
@@ -6568,6 +6739,9 @@
       <w>readColumns</w>
       <w>readGPS</w>
       <w>readHB</w>
+      <w>readHTMLList</w>
+      <w>readHTMLTable</w>
+      <w>readKeyValueDB</w>
       <w>readLines</w>
       <w>readMM</w>
       <w>readNEWS</w>
@@ -6585,6 +6759,7 @@
       <w>readShapePoints</w>
       <w>readShapePoly</w>
       <w>readShapeSpatial</w>
+      <w>readSolrDoc</w>
       <w>readSplus</w>
       <w>readTable</w>
       <w>readWorkbook</w>
@@ -6677,8 +6852,10 @@
       <w>remove</w>
       <w>remove.duplicates</w>
       <w>remove.packages</w>
+      <w>removeAttributes</w>
       <w>removeCellComment</w>
       <w>removeCellMerge</w>
+      <w>removeChildren</w>
       <w>removeClass</w>
       <w>removeColWidths</w>
       <w>removeComment</w>
@@ -6692,6 +6869,7 @@
       <w>removeMethodsObject</w>
       <w>removeModal</w>
       <w>removeName</w>
+      <w>removeNodes</w>
       <w>removeNotification</w>
       <w>removePane</w>
       <w>removeRow</w>
@@ -6703,6 +6881,7 @@
       <w>removeTaskCallback</w>
       <w>removeUI</w>
       <w>removeWorksheet</w>
+      <w>removeXMLNamespaces</w>
       <w>remove_missing</w>
       <w>remove_rownames</w>
       <w>rename</w>
@@ -6757,6 +6936,7 @@
       <w>repair_names</w>
       <w>repeatable</w>
       <w>replace</w>
+      <w>replaceNodes</w>
       <w>replaceStyle</w>
       <w>replay</w>
       <w>replayPlot</w>
@@ -6886,6 +7066,7 @@
       <w>right_join</w>
       <w>rio</w>
       <w>rivers</w>
+      <w>rjson</w>
       <w>rlang</w>
       <w>rle</w>
       <w>rleid</w>
@@ -7015,6 +7196,7 @@
       <w>saveRDS</w>
       <w>saveWidget</w>
       <w>saveWorkbook</w>
+      <w>saveXML</w>
       <w>save_html</w>
       <w>savehistory</w>
       <w>sbplx</w>
@@ -7111,6 +7293,7 @@
       <w>scatterplotMatrix</w>
       <w>scene3d</w>
       <w>sceneChange</w>
+      <w>schemaValidationErrorHandler</w>
       <w>scientific</w>
       <w>scientific_format</w>
       <w>scoped_bindings</w>
@@ -7257,6 +7440,7 @@
       <w>setWinProgressBar</w>
       <w>setWindowTitle</w>
       <w>setWrapText</w>
+      <w>setXMLNamespace</w>
       <w>setZoom</w>
       <w>set_Polypath</w>
       <w>set_PolypathRule</w>
@@ -7587,6 +7771,7 @@
       <w>start.dynrq</w>
       <w>startDaemonizedServer</w>
       <w>startDynamicHelp</w>
+      <w>startElement.SAX</w>
       <w>startPipeServer</w>
       <w>startServer</w>
       <w>startsWith</w>
@@ -8014,6 +8199,8 @@
       <w>sunspot.year</w>
       <w>sunspots</w>
       <w>superClassDepth</w>
+      <w>supportsExpat</w>
+      <w>supportsLibxml</w>
       <w>suppressDependencies</w>
       <w>suppressForeignCheck</w>
       <w>suppressMessages</w>
@@ -8168,6 +8355,7 @@
       <w>texi2dvi</w>
       <w>texi2pdf</w>
       <w>text</w>
+      <w>text.SAX</w>
       <w>text.default</w>
       <w>text3d</w>
       <w>textAreaInput</w>
@@ -8442,6 +8630,7 @@
       <w>toLatex.xtable</w>
       <w>toRd</w>
       <w>toString</w>
+      <w>toString.XMLNode</w>
       <w>toString.default</w>
       <w>toTitleCase</w>
       <w>to_string</w>
@@ -8930,8 +9119,70 @@
       <w>xlim</w>
       <w>xlsx</w>
       <w>xlsxjars</w>
+      <w>xml</w>
+      <w>xmlAncestors</w>
+      <w>xmlApply</w>
+      <w>xmlAttributeType</w>
+      <w>xmlAttrs</w>
+      <w>xmlCDataNode</w>
+      <w>xmlChildren</w>
+      <w>xmlCleanNamespaces</w>
+      <w>xmlClone</w>
+      <w>xmlCodeFile</w>
+      <w>xmlCommentNode</w>
+      <w>xmlContainsElement</w>
+      <w>xmlContainsEntity</w>
+      <w>xmlDOMApply</w>
+      <w>xmlDeserializeHook</w>
+      <w>xmlDoc</w>
+      <w>xmlElementSummary</w>
+      <w>xmlElementsByTagName</w>
+      <w>xmlErrorCumulator</w>
+      <w>xmlEventHandler</w>
+      <w>xmlEventParse</w>
+      <w>xmlGetAttr</w>
+      <w>xmlHandler</w>
+      <w>xmlHashTree</w>
+      <w>xmlInternalTreeParse</w>
+      <w>xmlName</w>
+      <w>xmlNamespace</w>
+      <w>xmlNamespaceDefinitions</w>
+      <w>xmlNamespaces</w>
+      <w>xmlNativeTreeParse</w>
+      <w>xmlNode</w>
+      <w>xmlOutputBuffer</w>
+      <w>xmlOutputDOM</w>
+      <w>xmlPINode</w>
+      <w>xmlParent</w>
+      <w>xmlParse</w>
+      <w>xmlParseDoc</w>
+      <w>xmlParseString</w>
+      <w>xmlParserContextFunction</w>
+      <w>xmlRoot</w>
+      <w>xmlSApply</w>
+      <w>xmlSchemaParse</w>
+      <w>xmlSchemaValidate</w>
+      <w>xmlSearchNs</w>
+      <w>xmlSerializeHook</w>
+      <w>xmlSize</w>
+      <w>xmlSize.default</w>
+      <w>xmlSource</w>
+      <w>xmlSourceFunctions</w>
+      <w>xmlSourceSection</w>
+      <w>xmlStopParser</w>
+      <w>xmlStructuredStop</w>
+      <w>xmlTextNode</w>
+      <w>xmlToDataFrame</w>
+      <w>xmlToList</w>
+      <w>xmlToS4</w>
+      <w>xmlTree</w>
+      <w>xmlTreeParse</w>
+      <w>xmlValue</w>
+      <w>xmlXIncludes</w>
       <w>xngettext</w>
       <w>xor</w>
+      <w>xpathApply</w>
+      <w>xpathSApply</w>
       <w>xpdrows.data.frame</w>
       <w>xpred.rpart</w>
       <w>xscale.components.default</w>

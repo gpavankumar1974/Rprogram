@@ -3,10 +3,10 @@
 # Created by: radhapavan
 # Created on: 5/31/2018
 # Load the package required to read XML files.
-library("XML")
+
 # Also load the other required package.
 library("methods")
-
+library("XML")
 # Give the input file name to the function.
 result <- xmlParse(file = "C:\\Users\\radhapavan\\Documents\\GitHub\\Rprogram\\Files\\readxml.xml")
 
