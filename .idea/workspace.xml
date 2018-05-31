@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c3f38bb-83ae-4193-97bb-a8a3b211c8dd" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/ScriptFiles/excelread.R" beforeDir="false" afterPath="$PROJECT_DIR$/ScriptFiles/excelread.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScriptFiles/xmlread.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,7 +23,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="excelread.R" pinned="false" current-in-tab="true">
+      <file leaf-file-name="excelread.R" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ScriptFiles/excelread.R">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="137">
@@ -31,11 +32,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="errorHandle.R" pinned="false" current-in-tab="false">
+      <file leaf-file-name="xmlread.R" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ScriptFiles/xmlread.R">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="249">
+              <caret line="32" column="19" lean-forward="true" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="errorHandle.R" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ScriptFiles/errorHandle.R">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="16" column="41" lean-forward="true" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+            <state relative-caret-position="139">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -52,6 +62,7 @@
         <option value="$PROJECT_DIR$/ScriptFiles/csvread.R" />
         <option value="$PROJECT_DIR$/ScriptFiles/errorHandle.R" />
         <option value="$PROJECT_DIR$/ScriptFiles/excelread.R" />
+        <option value="$PROJECT_DIR$/ScriptFiles/xmlread.R" />
       </list>
     </option>
   </component>
@@ -100,7 +111,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="R.errorHandle">
+  <component name="RunManager" selected="R.xmlread">
     <configuration name="errorHandle" type="RRunConfigurationType" factoryName="R" temporary="true">
       <option name="SCRIPT_PATH" value="$PROJECT_DIR$/ScriptFiles/errorHandle.R" />
       <option name="SCRIPT_ARGS" value="" />
@@ -113,12 +124,20 @@
       <option name="WORKING_DIRECTORY_PATH" value="C:\Users\radhapavan\Documents\GitHub\Rprogram\ScriptFiles" />
       <option name="PASS_PARENT_ENVS" value="true" />
     </configuration>
+    <configuration name="xmlread" type="RRunConfigurationType" factoryName="R" temporary="true">
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/ScriptFiles/xmlread.R" />
+      <option name="SCRIPT_ARGS" value="" />
+      <option name="WORKING_DIRECTORY_PATH" value="C:\Users\radhapavan\Documents\GitHub\Rprogram\ScriptFiles" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+    </configuration>
     <list>
       <item itemvalue="R.excelread" />
       <item itemvalue="R.errorHandle" />
+      <item itemvalue="R.xmlread" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="R.xmlread" />
         <item itemvalue="R.errorHandle" />
         <item itemvalue="R.excelread" />
       </list>
@@ -201,17 +220,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ScriptFiles/errorHandle.R">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="16" column="41" lean-forward="true" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ScriptFiles/excelread.R">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="137">
           <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScriptFiles/xmlread.R">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="32" column="19" lean-forward="true" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScriptFiles/errorHandle.R">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
