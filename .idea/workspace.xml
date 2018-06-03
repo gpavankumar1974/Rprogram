@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c3f38bb-83ae-4193-97bb-a8a3b211c8dd" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/ScriptFiles/Rdecision.R" beforeDir="false" afterPath="$PROJECT_DIR$/ScriptFiles/Rdecision.R" afterDir="false" />
-    </list>
+    <list default="true" id="4c3f38bb-83ae-4193-97bb-a8a3b211c8dd" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,65 +11,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="csvread.R" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ScriptFiles/csvread.R">
+      <file leaf-file-name="rloops.R" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ScriptFiles/rloops.R">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="excelread.R" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ScriptFiles/excelread.R">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1144">
-              <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="xmlread.R" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ScriptFiles/xmlread.R">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="matrixTest.R" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ScriptFiles/matrixTest.R">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="695">
-              <caret line="54" column="51" selection-start-line="54" selection-start-column="51" selection-end-line="54" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Rdecision.R" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ScriptFiles/Rdecision.R">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="errorHandle.R" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ScriptFiles/errorHandle.R">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="readJson.R" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ScriptFiles/readJson.R">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+            <state relative-caret-position="119">
+              <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
             </state>
           </provider>
         </entry>
@@ -92,6 +36,7 @@
         <option value="$PROJECT_DIR$/ScriptFiles/xmlread.R" />
         <option value="$PROJECT_DIR$/ScriptFiles/matrixTest.R" />
         <option value="$PROJECT_DIR$/ScriptFiles/Rdecision.R" />
+        <option value="$PROJECT_DIR$/ScriptFiles/rloops.R" />
       </list>
     </option>
   </component>
@@ -140,15 +85,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="R.Rdecision">
+  <component name="RunManager" selected="R.rloops">
     <configuration name="Rdecision" type="RRunConfigurationType" factoryName="R" temporary="true">
       <option name="SCRIPT_PATH" value="$PROJECT_DIR$/ScriptFiles/Rdecision.R" />
-      <option name="SCRIPT_ARGS" value="" />
-      <option name="WORKING_DIRECTORY_PATH" value="C:\Users\radhapavan\Documents\GitHub\Rprogram\ScriptFiles" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-    </configuration>
-    <configuration name="errorHandle" type="RRunConfigurationType" factoryName="R" temporary="true">
-      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/ScriptFiles/errorHandle.R" />
       <option name="SCRIPT_ARGS" value="" />
       <option name="WORKING_DIRECTORY_PATH" value="C:\Users\radhapavan\Documents\GitHub\Rprogram\ScriptFiles" />
       <option name="PASS_PARENT_ENVS" value="true" />
@@ -165,6 +104,12 @@
       <option name="WORKING_DIRECTORY_PATH" value="C:\Users\radhapavan\Documents\GitHub\Rprogram\ScriptFiles" />
       <option name="PASS_PARENT_ENVS" value="true" />
     </configuration>
+    <configuration name="rloops" type="RRunConfigurationType" factoryName="R" temporary="true">
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/ScriptFiles/rloops.R" />
+      <option name="SCRIPT_ARGS" value="" />
+      <option name="WORKING_DIRECTORY_PATH" value="C:\Users\radhapavan\Documents\GitHub\Rprogram\ScriptFiles" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+    </configuration>
     <configuration name="xmlread" type="RRunConfigurationType" factoryName="R" temporary="true">
       <option name="SCRIPT_PATH" value="$PROJECT_DIR$/ScriptFiles/xmlread.R" />
       <option name="SCRIPT_ARGS" value="" />
@@ -172,19 +117,19 @@
       <option name="PASS_PARENT_ENVS" value="true" />
     </configuration>
     <list>
-      <item itemvalue="R.errorHandle" />
       <item itemvalue="R.xmlread" />
       <item itemvalue="R.readJson" />
       <item itemvalue="R.matrixTest" />
       <item itemvalue="R.Rdecision" />
+      <item itemvalue="R.rloops" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="R.rloops" />
         <item itemvalue="R.Rdecision" />
         <item itemvalue="R.matrixTest" />
         <item itemvalue="R.xmlread" />
         <item itemvalue="R.readJson" />
-        <item itemvalue="R.errorHandle" />
       </list>
     </recent_temporary>
   </component>
@@ -205,14 +150,14 @@
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19375" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19375" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="R Packages" order="3" />
       <window_info anchor="right" id="R Graphics" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.46675357" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.46414602" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -522,31 +467,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ScriptFiles/Rdecision.R">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ScriptFiles/errorHandle.R">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
+        <state relative-caret-position="337">
           <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ScriptFiles/readJson.R">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
+        <state relative-caret-position="337">
           <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScriptFiles/excelread.R">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1144">
-          <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScriptFiles/xmlread.R">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
@@ -557,10 +495,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ScriptFiles/Rdecision.R">
+    <entry file="file://$PROJECT_DIR$/ScriptFiles/xmlread.R">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        <state relative-caret-position="308">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScriptFiles/excelread.R">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScriptFiles/rloops.R">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
         </state>
       </provider>
     </entry>
