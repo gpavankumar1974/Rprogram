@@ -12,8 +12,8 @@ if(is.integer(x)) {
 
 number1 <- 30
 number2 <- 20
-operator <- readline(prompt="Please enter any ARITHMETIC OPERATOR You wish!: ")
-operator = "M"
+#operator <- readline(prompt="Please enter any ARITHMETIC OPERATOR You wish!: ")
+operator = "+"
 switch(operator,
        "+" = print(paste("Addition of two numbers is: ", number1 + number2)),
        "-" = print(paste("Subtraction of two numbers is: ", number1 - number2)),
