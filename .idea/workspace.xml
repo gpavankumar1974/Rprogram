@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c3f38bb-83ae-4193-97bb-a8a3b211c8dd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/ScriptFiles/rvector.R" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4c3f38bb-83ae-4193-97bb-a8a3b211c8dd" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,11 +38,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="rvector.R" pinned="false" current-in-tab="true">
+      <file leaf-file-name="rvector.R" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ScriptFiles/rvector.R">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="59" column="15" lean-forward="true" selection-start-line="59" selection-start-column="15" selection-end-line="59" selection-end-column="15" />
+            <state relative-caret-position="206">
+              <caret line="58" column="8" lean-forward="true" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rlist.R" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ScriptFiles/rlist.R">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rArray.R" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ScriptFiles/rArray.R">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rMatrix.R" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ScriptFiles/rMatrix.R">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="40" column="29" lean-forward="true" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -70,6 +94,9 @@
         <option value="$PROJECT_DIR$/ScriptFiles/function.R" />
         <option value="$PROJECT_DIR$/ScriptFiles/rstrings.R" />
         <option value="$PROJECT_DIR$/ScriptFiles/rvector.R" />
+        <option value="$PROJECT_DIR$/ScriptFiles/rlist.R" />
+        <option value="$PROJECT_DIR$/ScriptFiles/rArray.R" />
+        <option value="$PROJECT_DIR$/ScriptFiles/rMatrix.R" />
       </list>
     </option>
   </component>
@@ -118,21 +145,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="R.rvector">
-    <configuration name="Rdecision" type="RRunConfigurationType" factoryName="R" temporary="true">
-      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/ScriptFiles/Rdecision.R" />
+  <component name="RunManager" selected="R.rMatrix">
+    <configuration name="rArray" type="RRunConfigurationType" factoryName="R" temporary="true">
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/ScriptFiles/rArray.R" />
       <option name="SCRIPT_ARGS" value="" />
       <option name="WORKING_DIRECTORY_PATH" value="C:\Users\radhapavan\Documents\GitHub\Rprogram\ScriptFiles" />
       <option name="PASS_PARENT_ENVS" value="true" />
     </configuration>
-    <configuration name="function" type="RRunConfigurationType" factoryName="R" temporary="true">
-      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/ScriptFiles/function.R" />
+    <configuration name="rMatrix" type="RRunConfigurationType" factoryName="R" temporary="true">
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/ScriptFiles/rMatrix.R" />
       <option name="SCRIPT_ARGS" value="" />
       <option name="WORKING_DIRECTORY_PATH" value="C:\Users\radhapavan\Documents\GitHub\Rprogram\ScriptFiles" />
       <option name="PASS_PARENT_ENVS" value="true" />
     </configuration>
-    <configuration name="rloops" type="RRunConfigurationType" factoryName="R" temporary="true">
-      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/ScriptFiles/rloops.R" />
+    <configuration name="rlist" type="RRunConfigurationType" factoryName="R" temporary="true">
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/ScriptFiles/rlist.R" />
       <option name="SCRIPT_ARGS" value="" />
       <option name="WORKING_DIRECTORY_PATH" value="C:\Users\radhapavan\Documents\GitHub\Rprogram\ScriptFiles" />
       <option name="PASS_PARENT_ENVS" value="true" />
@@ -150,19 +177,19 @@
       <option name="PASS_PARENT_ENVS" value="true" />
     </configuration>
     <list>
-      <item itemvalue="R.Rdecision" />
-      <item itemvalue="R.rloops" />
-      <item itemvalue="R.function" />
       <item itemvalue="R.rstrings" />
       <item itemvalue="R.rvector" />
+      <item itemvalue="R.rlist" />
+      <item itemvalue="R.rArray" />
+      <item itemvalue="R.rMatrix" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="R.rMatrix" />
+        <item itemvalue="R.rArray" />
+        <item itemvalue="R.rlist" />
         <item itemvalue="R.rvector" />
         <item itemvalue="R.rstrings" />
-        <item itemvalue="R.function" />
-        <item itemvalue="R.rloops" />
-        <item itemvalue="R.Rdecision" />
       </list>
     </recent_temporary>
   </component>
@@ -213,27 +240,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ScriptFiles/csvread.R">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScriptFiles/excelread.R">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1144">
-          <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScriptFiles/xmlread.R">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ScriptFiles/matrixTest.R">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1188">
@@ -565,8 +571,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ScriptFiles/rvector.R">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="59" column="15" lean-forward="true" selection-start-line="59" selection-start-column="15" selection-end-line="59" selection-end-column="15" />
+        <state relative-caret-position="206">
+          <caret line="58" column="8" lean-forward="true" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScriptFiles/rlist.R">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScriptFiles/rArray.R">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScriptFiles/rMatrix.R">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="40" column="29" lean-forward="true" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
         </state>
       </provider>
     </entry>
