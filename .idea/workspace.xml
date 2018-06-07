@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c3f38bb-83ae-4193-97bb-a8a3b211c8dd" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/radhapavan.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/radhapavan.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScriptFiles/rReshape.R" beforeDir="false" afterPath="$PROJECT_DIR$/ScriptFiles/rReshape.R" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/syllabusDS.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/syllabusDS.xlsx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,11 +41,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="rReshape.R" pinned="false" current-in-tab="true">
+      <file leaf-file-name="rReshape.R" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ScriptFiles/rReshape.R">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="208">
+              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rReshape2.R" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ScriptFiles/rReshape2.R">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rClean.R" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ScriptFiles/rClean.R">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -97,6 +114,9 @@
         <option value="$PROJECT_DIR$/ScriptFiles/Rsentiment.R" />
         <option value="$PROJECT_DIR$/ScriptFiles/rFactor.R" />
         <option value="$PROJECT_DIR$/ScriptFiles/rDataframe.R" />
+        <option value="$PROJECT_DIR$/ScriptFiles/rReshape.R" />
+        <option value="$PROJECT_DIR$/ScriptFiles/rReshape2.R" />
+        <option value="$PROJECT_DIR$/ScriptFiles/rClean.R" />
       </list>
     </option>
   </component>
@@ -145,21 +165,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="R.rDataframe">
-    <configuration name="Rsentiment" type="RRunConfigurationType" factoryName="R" temporary="true">
-      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/ScriptFiles/Rsentiment.R" />
-      <option name="SCRIPT_ARGS" value="" />
-      <option name="WORKING_DIRECTORY_PATH" value="C:\Users\radhapavan\Documents\GitHub\Rprogram\ScriptFiles" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-    </configuration>
-    <configuration name="excelduplicate" type="RRunConfigurationType" factoryName="R" temporary="true">
-      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/ScriptFiles/excelduplicate.R" />
-      <option name="SCRIPT_ARGS" value="" />
-      <option name="WORKING_DIRECTORY_PATH" value="C:\Users\radhapavan\Documents\GitHub\Rprogram\ScriptFiles" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-    </configuration>
-    <configuration name="ggplot" type="RRunConfigurationType" factoryName="R" temporary="true">
-      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/ScriptFiles/ggplot.R" />
+  <component name="RunManager" selected="R.rClean">
+    <configuration name="rClean" type="RRunConfigurationType" factoryName="R" temporary="true">
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/ScriptFiles/rClean.R" />
       <option name="SCRIPT_ARGS" value="" />
       <option name="WORKING_DIRECTORY_PATH" value="C:\Users\radhapavan\Documents\GitHub\Rprogram\ScriptFiles" />
       <option name="PASS_PARENT_ENVS" value="true" />
@@ -176,20 +184,32 @@
       <option name="WORKING_DIRECTORY_PATH" value="C:\Users\radhapavan\Documents\GitHub\Rprogram\ScriptFiles" />
       <option name="PASS_PARENT_ENVS" value="true" />
     </configuration>
+    <configuration name="rReshape" type="RRunConfigurationType" factoryName="R" temporary="true">
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/ScriptFiles/rReshape.R" />
+      <option name="SCRIPT_ARGS" value="" />
+      <option name="WORKING_DIRECTORY_PATH" value="C:\Users\radhapavan\Documents\GitHub\Rprogram\ScriptFiles" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+    </configuration>
+    <configuration name="rReshape2" type="RRunConfigurationType" factoryName="R" temporary="true">
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/ScriptFiles/rReshape2.R" />
+      <option name="SCRIPT_ARGS" value="" />
+      <option name="WORKING_DIRECTORY_PATH" value="C:\Users\radhapavan\Documents\GitHub\Rprogram\ScriptFiles" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+    </configuration>
     <list>
-      <item itemvalue="R.excelduplicate" />
-      <item itemvalue="R.ggplot" />
-      <item itemvalue="R.Rsentiment" />
       <item itemvalue="R.rFactor" />
       <item itemvalue="R.rDataframe" />
+      <item itemvalue="R.rReshape" />
+      <item itemvalue="R.rReshape2" />
+      <item itemvalue="R.rClean" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="R.rClean" />
+        <item itemvalue="R.rReshape2" />
+        <item itemvalue="R.rReshape" />
         <item itemvalue="R.rDataframe" />
         <item itemvalue="R.rFactor" />
-        <item itemvalue="R.Rsentiment" />
-        <item itemvalue="R.ggplot" />
-        <item itemvalue="R.excelduplicate" />
       </list>
     </recent_temporary>
   </component>
@@ -210,14 +230,14 @@
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19375" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19375" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="R Packages" order="3" />
       <window_info anchor="right" id="R Graphics" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4915254" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4915254" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -240,20 +260,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ScriptFiles/readJson.R">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScriptFiles/Rdecision.R">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ScriptFiles/csvread.R">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="550">
@@ -429,13 +435,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/csvread.R">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="31" lean-forward="true" selection-start-line="4" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ScriptFiles/csvread.R">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="550">
@@ -468,13 +467,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="695">
           <caret line="54" column="51" selection-start-line="54" selection-start-column="51" selection-end-line="54" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScriptFiles/xmlread.R">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
@@ -584,8 +576,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ScriptFiles/rReshape.R">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="208">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScriptFiles/rReshape2.R">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csvread.R">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScriptFiles/xmlread.R">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="86" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScriptFiles/rClean.R">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
