@@ -6,3 +6,7 @@
 library("dplyr")
 mydata = read.csv("C:\\Users\\radhapavan\\Documents\\GitHub\\Rprogram\\Files\\sampledataStates.csv")
 print(mydata)
+
+# Get the person detail having max salary.Remove NA
+retval <- subset(data, !is.na(salary))
+print(retval)
