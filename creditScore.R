@@ -51,7 +51,13 @@ print(class(result2))
 table1 <- table(newdata$creditScore, newdata$employmentType, dnn=c("creditScore,", "employmentType")) # Creates a contingency table
 addmargins(table1) #Displays the table (Not necessary)
 
-barplot(table1, ylab="Total count", xlab="employmen tType", main="Side-By-Side Bar Chart", col=c("green", "blue", "orange" ), beside=TRUE, width=.3)
 
-legend("top", title=" Type of Employess Vs. Credit Scores", legend= sort(unique(result2$employmentType)), fill =c("green", "blue", "orange" ), box.lty=0)
+barplot(table1, ylab="Total count", xlab="employmen tType", main="Side-By-Side Bar Chart", col=c("green", "blue", "orange","turquoise4", "turquoise2", "turquoise","red","pink" ), beside=TRUE, width=.3)
+
+legend("top", title=" Type of Employess Vs. Credit Scores", legend= sort(unique(result2$employmentType)), fill =col=c("green", "blue", "orange","turquoise4", "turquoise2", "turquoise","red","pink" ), box.lty=0)
+
+
+barplot(table1, ylab="Total count", xlab="employmen Type", main="Side-By-Side Bar Chart", col=c("green", "blue", "orange","coral", "cyan", "darkcyan","red","pink","darkseagreen","gray70","lightgreen","orchid" ), beside=TRUE, width=.3)
+
+legend("top", title=" Type of Employess Vs. Credit Scores", legend= sort(unique(result2$creditScore)), fill =c("green", "blue", "orange","coral", "cyan", "darkcyan","red","pink","darkseagreen","gray70","lightgreen","orchid" ), box.lty=0)
 
